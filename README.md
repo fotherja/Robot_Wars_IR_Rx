@@ -1,5 +1,5 @@
 # Robot_Wars_IR_Rx
-This Repository contains a Arduino Uno class for abstracting away the protocols used for robust IR receiving needed for the GMC. There is also an attached minimal example to demo use.
+This Repository contains an Arduino Uno class for abstracting away the protocols used for robust IR receiving needed for the GMC. There is also an attached minimal example to demo use.
 
 The protocols used by the class for those interested are:
  - Manchested encoded data
